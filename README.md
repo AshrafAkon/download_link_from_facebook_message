@@ -17,5 +17,5 @@ Make sure to replace "pip" with pip3 in linux any linux distro.
 I tested this code in windows. This should work just fine in any debian based or other linux distros. 
 I didnt updated the code in a long time. There is a chance that this code wont work out of the box. But with some previous python experience you should be able to get this to a working condition. In that case please open a issue so I can change the code to updated condition. You can also fork it. 
 
-Caution : use this code at your own risk. This code is serves to "As-is" basis. 
+Caution : use this code at your own risk. This code is served to "As-is" basis. No warrenty of any kind is provided 
 Licence = MIT Licence
